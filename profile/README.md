@@ -78,7 +78,7 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
         <b>Zoha Nadeem</b>
       </a>
        <br>
-      <sub>Frontend Engineer</sub>
+      <sub>Full Stack Engineer</sub>
     </td>
   </tr>
 </table>
