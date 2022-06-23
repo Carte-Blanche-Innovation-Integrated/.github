@@ -67,7 +67,7 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
     <td align="center">
       <a href="https://github.com/Syed-Ahmad-Arshad"><img src="https://avatars.githubusercontent.com/u/60936423?v=4" width="100px;">
         <br>
-        <b>Syed Ahmad Arshad</b>
+        <b>Ahmad Arshad</b>
       </a>
        <br>
       <sub>Full Stack Engineer</sub>
