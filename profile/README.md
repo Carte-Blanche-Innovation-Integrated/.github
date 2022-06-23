@@ -62,7 +62,7 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
         <b>M. Ali Ashraf</b>
       </a>
        <br>
-      <sub>Full Stack Engineer</sub>
+      <sub>Designer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Syed-Ahmad-Arshad"><img src="https://avatars.githubusercontent.com/u/60936423?v=4" width="100px;">
