@@ -96,10 +96,6 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
 
 # About Us
 We mix art, design, science and some brainsauce to reimagine reality 💪 . At Carte Blanche, we love to take up challenges, experiment and solve problems as a team. Our growth-oriented mindset makes sure everyone in the team tests their limits, through disciplined and creative ❤.
-
-<div align="center">
- --- Made by   <a href="https://github.com/abdullahmujahidali"> Abdullah Mujahid </a>---
-</div>
  
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -128,3 +124,4 @@ We mix art, design, science and some brainsauce to reimagine reality 💪 . At C
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
 </div>
+
