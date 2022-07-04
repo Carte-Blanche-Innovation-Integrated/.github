@@ -65,7 +65,7 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
       <sub>Designer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Syed-Ahmad-Arshad"><img src="[[https://cultofthepartyparrot.com/parrots/hd/wendyparrot.gif](https://static.wikia.nocookie.net/partyparrot/images/1/16/Wendyparrot.gif/revision/latest/top-crop/width/360/height/360?cb=20170401183934)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruAbZUXvk8eD9wDEDz02us7Y_qTb_DkR6f4KAO7F7UCyFvEA9hc9evfxUP95guFphYRM&usqp=CAU)" width="100px;">
+      <a href="[https://github.com/Syed-Ahmad-Arshad"><img src="[[https://cultofthepartyparrot.com/parrots/hd/wendyparrot.gif](https://static.wikia.nocookie.net/partyparrot/images/1/16/Wendyparrot.gif/revision/latest/top-crop/width/360/height/360?cb=20170401183934)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruAbZUXvk8eD9wDEDz02us7Y_qTb_DkR6f4KAO7F7UCyFvEA9hc9evfxUP95guFphYRM&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruAbZUXvk8eD9wDEDz02us7Y_qTb_DkR6f4KAO7F7UCyFvEA9hc9evfxUP95guFphYRM&usqp=CAU)" width="100px;">
         <br>
         <b>Ahmad Arshad</b>
       </a>
