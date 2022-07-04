@@ -1,4 +1,4 @@
-<a href="https://github.com/Carte-Blanche-Innovation-Integrated"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruAbZUXvk8eD9wDEDz02us7Y_qTb_DkR6f4KAO7F7UCyFvEA9hc9evfxUP95guFphYRM&usqp=CAU" border="0" width="100%"></a>
+<a href="https://github.com/Carte-Blanche-Innovation-Integrated"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQEOIYEQjOaKGw/profile-displaybackgroundimage-shrink_350_1400/0/1647420779730?e=1661385600&v=beta&t=-ctM8sg1OTTLccXCFZ7I7wUv4g-YrgYGgeO6Ik0RZDQ" alt="Among-Us-Crewmate-No-Suit-Fan" border="0" width="100%"></a>
 # **Carte Blanche**
 Welcome to Carte Blanche.</br>
 With our roots in design thinking coupled with agile philosophy, we engineer software that shares a bond with the users.
@@ -65,7 +65,7 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
       <sub>Designer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Syed-Ahmad-Arshad"><img src="[https://cultofthepartyparrot.com/parrots/hd/wendyparrot.gif](https://static.wikia.nocookie.net/partyparrot/images/1/16/Wendyparrot.gif/revision/latest/top-crop/width/360/height/360?cb=20170401183934)" width="100px;">
+      <a href="https://github.com/Syed-Ahmad-Arshad"><img src="[[https://cultofthepartyparrot.com/parrots/hd/wendyparrot.gif](https://static.wikia.nocookie.net/partyparrot/images/1/16/Wendyparrot.gif/revision/latest/top-crop/width/360/height/360?cb=20170401183934)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruAbZUXvk8eD9wDEDz02us7Y_qTb_DkR6f4KAO7F7UCyFvEA9hc9evfxUP95guFphYRM&usqp=CAU)" width="100px;">
         <br>
         <b>Ahmad Arshad</b>
       </a>
