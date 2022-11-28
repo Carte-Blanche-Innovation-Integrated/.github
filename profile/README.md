@@ -90,7 +90,7 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
 </a>
 
 <a href="https://github.com/Carte-Blanche-Innovation-Integrated/hirecinch-webapp-backend">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGHFeoz7cenrQ/profile-displayphoto-shrink_800_800/0/1595253612957?e=2147483647&v=beta&t=_ERXKOwwP1X_chWsgBaKDZB9sk9RLccTTWyg5cpwkRU" />
+  <img style='height: 30px; width: 30px' src="https://media-exp1.licdn.com/dms/image/C4D03AQGHFeoz7cenrQ/profile-displayphoto-shrink_800_800/0/1595253612957?e=2147483647&v=beta&t=_ERXKOwwP1X_chWsgBaKDZB9sk9RLccTTWyg5cpwkRU" />
 </a>
 
 
