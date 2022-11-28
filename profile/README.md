@@ -1,4 +1,3 @@
-<a href="https://github.com/Carte-Blanche-Innovation-Integrated"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQEOIYEQjOaKGw/profile-displaybackgroundimage-shrink_350_1400/0/1647420779730?e=1661385600&v=beta&t=-ctM8sg1OTTLccXCFZ7I7wUv4g-YrgYGgeO6Ik0RZDQ" alt="Among-Us-Crewmate-No-Suit-Fan" border="0" width="100%"></a>
 # **Carte Blanche**
 Welcome to Carte Blanche.</br>
 With our roots in design thinking coupled with agile philosophy, we engineer software that shares a bond with the users.
