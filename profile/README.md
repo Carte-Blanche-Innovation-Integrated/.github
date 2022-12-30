@@ -64,7 +64,7 @@ With our roots in design thinking coupled with agile philosophy, we engineer sof
       <sub>Designer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Syed-Ahmad-Arshad"><img src="https://cultofthepartyparrot.com/parrots/hd/wendyparrot.gif">
+      <a href="https://github.com/Syed-Ahmad-Arshad"><img src="https://avatars.githubusercontent.com/u/54480112?v=4" width="100px;">
         <br>
         <b>Ahmad Arshad</b>
       </a>
